@@ -1,12 +1,9 @@
-span {
-    font-style: italic;
-    background-color: black;
-    color: bisque;
-    }
 
-.bold-text{
-    font-weight: bold;
+p {
+    font-size: 24px;
+    background-color: rgb(91,236,91);
 }
-ol {
-    
+
+p {
+display: inline;
 }
