@@ -1,0 +1,9 @@
+span {
+    font-style: italic;
+    background-color: black;
+    color: bisque;
+    }
+
+.bold-text{
+    font-weight: bold;
+}
