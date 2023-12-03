@@ -5,9 +5,9 @@ p {
 }
 
 .conteiner {
-    text-align: ce;
-}
-
-p {
-display: inline;
+    /* display: inline-block;
+    height: 100px; */
+    display: inline-block;
+    text-align: center; 
+    background-color: rgb(185, 185, 185);
 }
